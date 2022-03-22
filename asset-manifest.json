@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maksym-shchyhol/maksym-shchyhol.github.io/static/css/main.e63de0b7.css",
-    "main.js": "/maksym-shchyhol/maksym-shchyhol.github.io/static/js/main.785ac206.js",
-    "static/js/787.de9fc745.chunk.js": "/maksym-shchyhol/maksym-shchyhol.github.io/static/js/787.de9fc745.chunk.js",
-    "index.html": "/maksym-shchyhol/maksym-shchyhol.github.io/index.html",
-    "main.e63de0b7.css.map": "/maksym-shchyhol/maksym-shchyhol.github.io/static/css/main.e63de0b7.css.map",
-    "main.785ac206.js.map": "/maksym-shchyhol/maksym-shchyhol.github.io/static/js/main.785ac206.js.map",
-    "787.de9fc745.chunk.js.map": "/maksym-shchyhol/maksym-shchyhol.github.io/static/js/787.de9fc745.chunk.js.map"
+    "main.css": "/static/css/main.e63de0b7.css",
+    "main.js": "/static/js/main.484c87d3.js",
+    "static/js/787.de9fc745.chunk.js": "/static/js/787.de9fc745.chunk.js",
+    "index.html": "/index.html",
+    "main.e63de0b7.css.map": "/static/css/main.e63de0b7.css.map",
+    "main.484c87d3.js.map": "/static/js/main.484c87d3.js.map",
+    "787.de9fc745.chunk.js.map": "/static/js/787.de9fc745.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e63de0b7.css",
-    "static/js/main.785ac206.js"
+    "static/js/main.484c87d3.js"
   ]
 }
