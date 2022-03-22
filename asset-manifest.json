@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maksym-shchyhol.github.io/static/css/main.e63de0b7.css",
+    "main.js": "/maksym-shchyhol.github.io/static/js/main.dbab1e1e.js",
+    "static/js/787.de9fc745.chunk.js": "/maksym-shchyhol.github.io/static/js/787.de9fc745.chunk.js",
+    "index.html": "/maksym-shchyhol.github.io/index.html",
+    "main.e63de0b7.css.map": "/maksym-shchyhol.github.io/static/css/main.e63de0b7.css.map",
+    "main.dbab1e1e.js.map": "/maksym-shchyhol.github.io/static/js/main.dbab1e1e.js.map",
+    "787.de9fc745.chunk.js.map": "/maksym-shchyhol.github.io/static/js/787.de9fc745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63de0b7.css",
+    "static/js/main.dbab1e1e.js"
+  ]
+}
