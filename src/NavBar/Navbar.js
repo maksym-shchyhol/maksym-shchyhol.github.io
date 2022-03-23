@@ -1,5 +1,6 @@
 import './Navbar.scss'
-import '../Styles/mystyles.scss'
+import '../index.scss'
+import './eventListeners'
 
 import { Link } from 'react-router-dom'
 
