@@ -17,12 +17,11 @@ function Home() {
               </p>
             </div>
           </section>
-          <section class="hero">
-            <div class="hero-body">
-            <span id="my-bio">
+          <div class="my-bio">
+            <span>
 Hi, my name is <b>Maksym</b>.
 I'm a full-stack developer, team lead, and software architect with
-<span id="bio-years"> 10+</span> years of work experience.
+<span class="bio-years"> 10+</span> years of work experience.
 I'm from Ukraine, have lived and worked in Malta.
 I love to travel, enjoy diversity, and always aim to learn something new.
 My passion is software development using the <b>.NET stack</b> and <b>JavaScript</b> with front-end frameworks like <b>Angular</b> and <b>React</b>.
@@ -32,12 +31,10 @@ I'm sure we might be helpful to each other.
 <br/><br/>
 Peace. 💙💛
             </span>
-            </div>
-          </section>
           </div>
         </div>
       </div>
-      
+    </div>
     );
   }
   

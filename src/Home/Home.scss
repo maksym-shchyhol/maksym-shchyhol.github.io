@@ -1,15 +1,25 @@
 @import '../../node_modules/bulma/sass/utilities/derived-variables.sass';
 
 #home {
-    margin-top: 3rem;
     .hero-body {
-        padding: 1rem 1.5rem;
+        @media screen and (max-width: 500px) {
+            padding: 1rem 1.5rem;
+        }
+    
+        @media screen and (min-width: 500px) and (max-width: $tablet) {
+            padding: 2rem 1.5rem;
+        }
+    
+        @media screen and (min-width: $tablet) {
+            padding: 2.5rem 1.5rem;
+        }
     }
 
-    @media screen and (max-width: $tablet) {
-        margin-top: 1rem;
-        .hero-body {
-            padding: 0.5rem 1.5rem;
+    .my-bio {
+        padding: 0 1.5rem;
+
+        @media screen and (max-width: 500px) {
+            margin-top: 1rem;
         }
     }
 }
