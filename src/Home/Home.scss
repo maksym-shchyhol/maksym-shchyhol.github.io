@@ -1,0 +1,15 @@
+@import '../../node_modules/bulma/sass/utilities/derived-variables.sass';
+
+#home {
+    margin-top: 3rem;
+    .hero-body {
+        padding: 1rem 1.5rem;
+    }
+
+    @media screen and (max-width: $tablet) {
+        margin-top: 1rem;
+        .hero-body {
+            padding: 0.5rem 1.5rem;
+        }
+    }
+}

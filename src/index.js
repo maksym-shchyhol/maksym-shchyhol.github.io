@@ -5,15 +5,15 @@ import reportWebVitals from './reportWebVitals';
 
 import Home from './Home/Home.js'
 import Contact from './Contact/Contact.js'
-import Navbar from './NavBar/Navbar.js'
+import Skills from './Skills/Skills.js'
 
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-      <Navbar/>
       <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/skills" element={<Skills />} />
     </Routes>
     </BrowserRouter>
   </React.StrictMode>,
