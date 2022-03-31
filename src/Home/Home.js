@@ -21,8 +21,8 @@ function Home() {
           <div class="my-bio">
             <span>
 Hi, my name is <b>Maksym</b>. I'm a developer, team lead, and software architect with
-<Years class="full-stack-years" digits="8" startDate="Aug 1, 2012"/>years of experience in software development,
-<Years class="developer-years" digits="0"startDate="Oct 1, 2015" />years of which have been obtained working in full-stack and leading positions.
+{' '}<Years class="full-stack-years" digits="8" startDate="Aug 1, 2012"/>{' '}years of experience in software development,
+{' '}<Years class="developer-years" digits="0"startDate="Oct 1, 2015" />{' '}years of which have been obtained working in full-stack and leading positions.
 I'm from Ukraine, have lived and worked in Malta.
 I love to travel, enjoy diversity, and always looking for an opportunity to learn something new.
 My passion is software development using the <b>.NET stack</b> and <b>JavaScript</b> with front-end frameworks like <b>Angular</b> and <b>React</b>.
