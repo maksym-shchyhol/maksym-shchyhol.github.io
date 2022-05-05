@@ -3,10 +3,12 @@ import '../Styles/main.scss'
 import './Home.scss'
 import { Link } from 'react-router-dom'
 import Years from '../Components/Years.js'
+import Analytics from '../Components/Analytics.js'
 
 function Home() {
     return (
       <div id="main">
+        <Analytics/>
         <div className="container is-max-desktop">
           <div className="is-primary">
           <section className="hero">

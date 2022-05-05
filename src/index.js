@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 
 import Home from './Home/Home.js'
@@ -9,13 +9,13 @@ import Skills from './Skills/Skills.js'
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="/skills" element={<Skills />} />
-    </Routes>
-    </BrowserRouter>
+        <Route exact path='/' element={<Home />} />
+        <Route exact path='/contact' element={<Contact />} />
+        <Route exact path='/skills' element={<Skills />} />
+      </Routes>
+    </HashRouter >
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,10 +1,12 @@
 import '../index.scss'
 import '../Styles/main.scss'
 import './Skills.scss'
+import Analytics from '../Components/Analytics.js'
 
 function Skills() {
     return (
       <div id="main">
+        <Analytics/>
         <div className="container is-max-desktop">
           <div className="is-primary">
             <section className="hero">

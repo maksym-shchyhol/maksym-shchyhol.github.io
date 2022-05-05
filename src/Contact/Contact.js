@@ -5,10 +5,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBell } from '@fortawesome/free-regular-svg-icons'
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons'
 import { faBuilding } from '@fortawesome/free-regular-svg-icons'
+import Analytics from '../Components/Analytics.js'
 
 function Contact() {
     return (
       <div id="main">
+        <Analytics/>
         <div className="container is-max-desktop">
           <div className="is-primary">
             <section className="hero">
