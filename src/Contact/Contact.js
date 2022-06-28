@@ -29,7 +29,15 @@ function Contact() {
                   <span className="icon">
                     <FontAwesomeIcon icon={faBell} />
                   </span>
-                  <a href="tel:+380938985489">+380938985489</a>
+                  <span>Ukraine:</span>&nbsp;<a href="tel:+380938985489">+380938985489</a>
+                </span>
+              </div>
+              <div>
+                <span className="icon-text">
+                  <span className="icon">
+                    <FontAwesomeIcon icon={faBell} />
+                  </span>
+                  <span>USA:</span>&nbsp;<a href="tel:+16694994143">+16694994143</a>
                 </span>
               </div>
               <div>
