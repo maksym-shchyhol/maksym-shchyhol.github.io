@@ -37,14 +37,14 @@ function Skills() {
                 </ul>
                 <h4>Soft Skills:</h4>
                 <ul>
-                  <li>Teamwork</li>
-                  <li>Leadership</li>
-                  <li>Hard-working</li>
-                  <li>Effective time management</li>
-                  <li>Adaptability</li>
+                  <li>Team collaboration</li>
+                  <li>Leadership ability</li>
+                  <li>Strong work ethic</li>
+                  <li>Time management skills</li>
+                  <li>Adaptability to changing situations</li>
                   <li>Critical thinking</li>
-                  <li>Problem solving</li>
-                  <li>Fast learning</li>
+                  <li>Problem-solving skills</li>
+                  <li>Fast learning ability</li>
                 </ul>
                 <br/><br/>
               </div>
